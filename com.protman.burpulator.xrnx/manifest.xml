@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6</ApiVersion>
+  <AutoUpgraded>true</AutoUpgraded>
+  <Id>com.protman.burpulator</Id>
+  <Version>1.0</Version>
+  <Author>protman</Author>
+  <Name>Disable Sample Interpolation</Name>
+  <Category>In Progress</Category>
+  <Description>en/disable interpolation types and aliasing (thanks 2 illformed)</Description>
+  <Homepage>https://prot.audio</Homepage>
+</RenoiseScriptingTool>
